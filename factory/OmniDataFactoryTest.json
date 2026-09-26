@@ -1,0 +1,15 @@
+{
+	"name": "OmniDataFactoryTest",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fd62adf-a9b7-4f83-8353-e5a4b085e83c",
+		"tenantId": "2ac146c5-0e26-4df5-82a6-b2185523565f"
+	}
+}
